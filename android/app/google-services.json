@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "435902048512",
+    "project_id": "exposys-virtual-internsh-6d733",
+    "storage_bucket": "exposys-virtual-internsh-6d733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435902048512:android:38afc43716bc6c6ee06be5",
+        "android_client_info": {
+          "package_name": "com.example.exposys_virtual_internship_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435902048512-d4mc2jfj3ogruknjvpt07kn22h60dm68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWwWCPHP4w6D0uevND47Mn-NY48-aD2zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435902048512-d4mc2jfj3ogruknjvpt07kn22h60dm68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435902048512-gnvgri5pvgdicv477avk9hufc1vssech.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exposysVirtualInternshipApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
